@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "deviceType": "column",
+      "hwRevision": "revB",
+      "fwVersion": "1.00.02",
+      "url": "/column_revB_v1.00.02.bin"
+    },
+    {
+      "deviceType": "slider",
+      "hwRevision": "revB",
+      "fwVersion": "1.00.03",
+      "url": "/slider_revB_v1.00.03.bin"
+    },
+    {
+      "deviceType": "gateway",
+      "hwRevision": "revB",
+      "fwVersion": "1.00.03",
+      "url": "/gateway_revB_v1.00.03.bin"
+    },
+    {
+      "deviceType": "ptz",
+      "hwRevision": "revA",
+      "fwVersion": "1.00.00",
+      "url": "/ptz_revA_v1.00.00.bin"
+    },
+    {
+      "deviceType": "jib",
+      "hwRevision": "revA",
+      "fwVersion": "1.00.00",
+      "url": "/jib_revA_v1.00.00.bin"
+    },
+    {
+      "deviceType": "dolly",
+      "hwRevision": "revA",
+      "fwVersion": "1.00.00",
+      "url": "/dolly_revA_v1.00.00.bin"
+    }
+  ]
+}
